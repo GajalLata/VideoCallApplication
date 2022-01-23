@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124580539122",
+    "project_id": "videocallapplication-b87d0",
+    "storage_bucket": "videocallapplication-b87d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124580539122:android:d814dd34a5ea5519bfbe6b",
+        "android_client_info": {
+          "package_name": "com.gajal.videocallapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124580539122-anrh0od5f8035o6ps1j0844g7jingl7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhrqrS9iTuQom5vNiThLEfTCvDIwBW2fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124580539122-anrh0od5f8035o6ps1j0844g7jingl7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
